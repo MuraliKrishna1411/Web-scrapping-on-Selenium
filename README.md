@@ -14,7 +14,7 @@ Step 5  Split data based on the pattern of the data extracted
 
 Step 6  Created loop for segregating data into different variables
 
-Step 5  Created a data frame and store it into CSV file
+Step 5  Created a data frame and stored into CSV file
 
 Understand the code and you can extract any data from any website, using this data we can extract from amazon, filpkart  etc
 
