@@ -4,11 +4,11 @@ Web scrapping data using selenium and python
 
 Step 1  Used selenium and created driver to open website
 
-Step 2  Created a loop for scroll the website
+Step 2  Created a loop for scrolling website
 
-Step 3  Created and extract data using .text or we can use .textcontent
+Step 3  Extract data using .text or we can use .textcontent
 
-Step 4  Extract data into variable raw
+Step 4  Extract data into variable
 
 Step 5  Split data based on the pattern of the data extracted
 
