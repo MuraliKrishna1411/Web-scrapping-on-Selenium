@@ -1,0 +1,261 @@
+,Car_Title,Manufactured_Year,vehicle_runs_on_road,Vehicle_Fuel_type,Vehicle_mode,Price
+0,Hyundai i10 Era 1.1,2007,"69,382 kms ", Petrol , Manual,₹ 60000
+1,Hyundai i10 Magna Optional 1.1L,2008,"72,693 kms ", Petrol , Manual,₹ 60000
+2,Maruti A-Star Lxi,2008,"1,12,973 kms ", Petrol , Manual,₹ 75000
+3,Chevrolet Aveo U-VA 1.2,2009,"78,000 kms ", Petrol , Manual,₹ 90000
+4,Hyundai i10 Magna 1.2,2009,"53,969 kms ", Petrol , Manual,₹ 2.10 Lakh
+5,Maruti Swift Dzire VXi,2009,"57,388 kms ", Petrol , Manual,₹ 1.50 Lakh
+6,Hyundai i10 Magna 1.2,2009,"53,969 kms ", Petrol , Manual,₹ 2.10 Lakh
+7,Hyundai i10 Magna 1.2,2009,"53,969 kms ", Petrol , Manual,₹ 2.10 Lakh
+8,Maruti Swift 1.3 VXi,2009,"17,989 kms ", Petrol , Manual,₹ 2.00 Lakh
+9,Honda City 1.5 S MT,2009,"1,88,479 kms ", Petrol , Manual,₹ 2.00 Lakh
+10,Hyundai i10 Magna 1.2,2009,"53,969 kms ", Petrol , Manual,₹ 2.10 Lakh
+11,Hyundai i10 Magna 1.2,2010,"1,18,074 kms ", Petrol , Manual,₹ 1.60 Lakh
+12,Maruti Wagon R VXI BS IV,2010,"37,819 kms ", Petrol , Manual,₹ 2.00 Lakh
+13,Hyundai i10 Magna 1.1,2010,"30,442 kms ", Petrol , Manual,₹ 2.00 Lakh
+14,Maruti Swift Dzire 1.2 Vxi BSIV,2010,"47,423 kms ", Petrol , Manual,₹ 1.30 Lakh
+15,Mercedes-Benz C-Class C 200 CGI Avantgarde,2010,"61,413 kms ", Petrol , Automatic,₹ 5.50 Lakh
+16,Honda City 1.5 S MT,2010,"37,108 kms ", Petrol , Manual,₹ 3.00 Lakh
+17,Honda City 1.5 S MT,2010,"37,108 kms ", Petrol , Manual,₹ 3.00 Lakh
+18,Maruti Alto LXi BSIII,2010,"47,492 kms ", Petrol , Manual,₹ 1.50 Lakh
+19,Maruti Wagon R LX Minor,2010,"76,000 kms ", Petrol , Manual,₹ 1.25 Lakh
+20,Maruti Wagon R VXI BS IV,2010,"37,819 kms ", Petrol , Manual,₹ 2.00 Lakh
+21,Hyundai i10 Magna 1.1,2010,"30,442 kms ", Petrol , Manual,₹ 2.00 Lakh
+22,Audi Q7 3.0 TDI Quattro Premium Plus,2011,"80,000 kms ", Diesel , Automatic,₹ 12.35 Lakh
+23,Chevrolet Optra 2.0 LT,2011,"1,20,000 kms ", Diesel , Manual,₹ 1.10 Lakh
+24,Maruti Swift Dzire 1.2 ZXi BSIV,2011,"89,848 kms ", Petrol , Manual,₹ 3.25 Lakh
+25,Hyundai i10 Magna,2011,"67,785 kms ", Petrol , Manual,₹ 2.00 Lakh
+26,Maruti Eeco 5 Seater AC BSIV,2011,"81,320 kms ", Petrol , Manual,₹ 1.00 Lakh
+27,Hyundai i10 Sportz Option,2011,"1,06,929 kms ", Petrol , Manual,₹ 1.35 Lakh
+28,Honda Brio V MT,2012,"87,968 kms ", Petrol , Manual,₹ 2.00 Lakh
+29,Maruti Swift Dzire LDI,2012,"77,000 kms ", Diesel , Manual,₹ 3.00 Lakh
+30,Mercedes-Benz S-Class S 350 L,2012,"63,051 kms ", Petrol , Automatic,₹ 12.00 Lakh
+31,Nissan Sunny XE,2012,"90,176 kms ", Petrol , Manual,₹ 1.99 Lakh
+32,Maruti Ertiga LXI,2012,"51,533 kms ", Petrol , Manual,₹ 3.70 Lakh
+33,Honda City E,2012,"57,238 kms ", Petrol , Manual,₹ 3.50 Lakh
+34,Maruti Swift Dzire 1.2 Vxi BSIV,2012,"70,678 kms ", Petrol , Manual,₹ 2.50 Lakh
+35,Honda Brio E MT,2012,"42,013 kms ", Petrol , Manual,₹ 2.65 Lakh
+36,Mahindra Quanto C4,2012,"88,830 kms ", Diesel , Manual,₹ 1.30 Lakh
+37,Hyundai Verna 1.6 SX CRDI (O) AT,2012,"3,15,000 kms ", Diesel , Automatic,₹ 2.50 Lakh
+38,Maruti Ertiga VXI,2012,"97,641 kms ", Petrol , Manual,₹ 3.10 Lakh
+39,Land Rover Range Rover Evoque 2.2L Dynamic,2013,"60,000 kms ", Diesel , Automatic,₹ 23.00 Lakh
+40,Audi A6 2.0 TDI Premium Plus,2013,"69,000 kms ", Diesel , Automatic,₹ 12.23 Lakh
+41,Ford Ecosport 1.5 DV5 MT Titanium,2013,"1,22,264 kms ", Diesel , Manual,₹ 3.00 Lakh
+42,Mahindra Scorpio VLX 2WD ABS AT BSIII,2013,"95,000 kms ", Diesel , Automatic,₹ 4.70 Lakh
+43,Renault Duster 110PS Diesel RxZ,2013,"88,000 kms ", Diesel , Manual,₹ 2.95 Lakh
+44,Mercedes-Benz E-Class E250 CDI Avantgarde,2013,"87,000 kms ", Diesel , Automatic,₹ 10.50 Lakh
+45,Renault Duster 85PS Diesel RxE,2013,"1,45,741 kms ", Diesel , Manual,₹ 3.00 Lakh
+46,Maruti Swift Dzire VXI,2013,"49,474 kms ", Petrol , Manual,₹ 2.60 Lakh
+47,Ford Ecosport 1.5 DV5 MT Titanium,2013,"1,22,264 kms ", Diesel , Manual,₹ 3.00 Lakh
+48,Mercedes-Benz C-Class C 220 CDI BE Avantgare,2013,"34,000 kms ", Diesel , Automatic,₹ 11.50 Lakh
+49,Hyundai i20 Sportz 1.2,2013,"50,105 kms ", Petrol , Manual,₹ 2.60 Lakh
+50,Mercedes-Benz C-Class 220 CDI AT,2013,"40,000 kms ", Diesel , Automatic,₹ 13.75 Lakh
+51,Audi A4 2.0 TDI,2013,"55,610 kms ", Diesel , Automatic,₹ 9.30 Lakh
+52,Hyundai i10 Sportz,2013,"68,736 kms ", Petrol , Manual,₹ 2.25 Lakh
+53,Hyundai Verna 1.6 SX VTVT,2013,"70,729 kms ", Petrol , Manual,₹ 4.00 Lakh
+54,Audi Q5 2.0 TDI Premium Plus,2013,"17,200 kms ", Diesel , Automatic,₹ 15.25 Lakh
+55,Mercedes-Benz E-Class E250 CDI Avantgarde,2013,"87,000 kms ", Diesel , Automatic,₹ 10.50 Lakh
+56,Volkswagen Vento Diesel Highline,2013,"1,28,520 kms ", Diesel , Manual,₹ 2.15 Lakh
+57,Maruti Alto 800 LXI,2013,"46,328 kms ", Petrol , Manual,₹ 1.75 Lakh
+58,Hyundai EON D Lite Plus,2013,"70,000 kms ", Petrol , Manual,₹ 1.30 Lakh
+59,Hyundai i10 Sportz,2013,"68,736 kms ", Petrol , Manual,₹ 2.25 Lakh
+60,Honda City V MT,2013,"71,641 kms ", Petrol , Manual,₹ 3.70 Lakh
+61,Renault Duster 85PS Diesel RxL,2013,"1,12,052 kms ", Diesel , Manual,₹ 4.00 Lakh
+62,Maruti Swift Dzire VDI,2013,"1,59,383 kms ", Diesel , Manual,₹ 2.50 Lakh
+63,Ford Ecosport 1.5 DV5 MT Titanium,2014,"71,000 kms ", Diesel , Manual,₹ 4.10 Lakh
+64,Maruti Swift VVT VXI,2014,"1,06,934 kms ", Petrol , Manual,₹ 2.85 Lakh
+65,Hyundai EON D Lite,2014,"55,719 kms ", Petrol , Manual,₹ 1.60 Lakh
+66,Nissan Terrano XL 110 PS,2014,"1,27,489 kms ", Diesel , Manual,₹ 4.50 Lakh
+67,BMW 7 Series 730Ld,2014,"4,106 kms ", Diesel , Automatic,₹ 28.00 Lakh
+68,Mahindra XUV500 W8 2WD,2014,"1,20,000 kms ", Diesel , Manual,₹ 5.00 Lakh
+69,Hyundai Xcent 1.2 Kappa S,2014,"45,458 kms ", Petrol , Manual,₹ 3.20 Lakh
+70,Honda City i VTEC SV,2014,"80,081 kms ", Petrol , Manual,₹ 4.50 Lakh
+71,Ford Ecosport 1.5 DV5 MT Titanium,2014,"71,000 kms ", Diesel , Manual,₹ 4.10 Lakh
+72,Maruti Swift Dzire VDI,2014,"1,09,663 kms ", Diesel , Manual,₹ 3.50 Lakh
+73,Honda City i DTEC SV,2014,"82,283 kms ", Diesel , Manual,₹ 3.60 Lakh
+74,Honda Amaze S i-Vtech,2014,"17,500 kms ", Petrol , Manual,₹ 3.99 Lakh
+75,Renault Duster 85PS Diesel RxE,2014,"1,49,192 kms ", Diesel , Manual,₹ 2.00 Lakh
+76,Honda Amaze S i-Dtech,2014,"1,18,176 kms ", Diesel , Manual,₹ 2.75 Lakh
+77,Skoda Superb Elegance 2.0 TDI CR AT,2014,"1,32,756 kms ", Diesel , Automatic,₹ 6.00 Lakh
+78,Mercedes-Benz S-Class S 350 d,2014,"13,000 kms ", Diesel , Automatic,₹ 47.75 Lakh
+79,Maruti Ciaz VDi Plus,2014,"1,20,400 kms ", Diesel , Manual,₹ 4.50 Lakh
+80,Mahindra XUV500 W4,2014,"1,13,454 kms ", Diesel , Manual,₹ 3.80 Lakh
+81,Toyota Corolla Altis D-4D G,2014,"76,333 kms ", Diesel , Manual,₹ 6.25 Lakh
+82,Honda City i VTEC CVT SV,2014,"87,912 kms ", Petrol , Automatic,₹ 4.50 Lakh
+83,Toyota Etios Liva GD,2014,"3,99,754 kms ", Diesel , Manual,₹ 2.50 Lakh
+84,Hyundai Verna 1.6 SX,2014,"1,05,713 kms ", Diesel , Manual,₹ 2.75 Lakh
+85,Renault Duster 85PS Diesel RxL,2014,"63,309 kms ", Diesel , Manual,₹ 4.00 Lakh
+86,Maruti Swift Dzire ZDI,2014,"51,623 kms ", Diesel , Manual,₹ 4.00 Lakh
+87,Audi Q3 2.0 TDI Quattro Premium Plus,2014,"26,000 kms ", Diesel , Automatic,₹ 14.49 Lakh
+88,Jaguar XF 2.2 Litre Luxury,2014,"17,000 kms ", Diesel , Automatic,₹ 19.90 Lakh
+89,Chevrolet Beat Diesel LS,2014,"1,09,963 kms ", Diesel , Manual,₹ 1.00 Lakh
+90,Honda Amaze E i-Dtech,2014,"95,734 kms ", Diesel , Manual,₹ 2.50 Lakh
+91,Ford Ecosport 1.5 DV5 MT Titanium,2014,"71,000 kms ", Diesel , Manual,₹ 4.10 Lakh
+92,Maruti Ritz VDi,2014,"1,01,678 kms ", Diesel , Manual,₹ 3.00 Lakh
+93,Maruti Wagon R LXI CNG,2014,"1,29,439 kms ", CNG , Manual,₹ 3.00 Lakh
+94,Mercedes-Benz E-Class E250 CDI,2014,"44,356 kms ", Diesel , Automatic,₹ 16.49 Lakh
+95,Mercedes-Benz S-Class S 500 L,2015,"70,000 kms ", Petrol , Automatic,₹ 49.00 Lakh
+96,Toyota Corolla Altis D-4D J,2015,"75,128 kms ", Diesel , Manual,₹ 5.50 Lakh
+97,Audi A6 35 TDI,2015,"55,000 kms ", Diesel , Automatic,₹ 21.00 Lakh
+98,Mahindra Scorpio S4 Plus,2015,"75,000 kms ", Diesel , Manual,₹ 7.50 Lakh
+99,Maruti Swift Dzire LDI,2015,"1,58,955 kms ", Diesel , Manual,₹ 2.50 Lakh
+100,Honda Amaze S i-Vtech,2015,"99,568 kms ", Petrol , Manual,₹ 3.70 Lakh
+101,Audi Q3 35 TDI Quattro Premium,2015,"64,985 kms ", Diesel , Automatic,₹ 15.00 Lakh
+102,Maruti Celerio VDi,2015,"1,69,672 kms ", Diesel , Manual,₹ 1.90 Lakh
+103,Mahindra TUV 300 T6,2015,"73,605 kms ", Diesel , Manual,₹ 3.70 Lakh
+104,Maruti Swift VDI BSIV,2015,"27,370 kms ", Diesel , Manual,₹ 5.00 Lakh
+105,Maruti Swift Dzire ZXI,2015,"1,20,877 kms ", Petrol , Manual,₹ 4.00 Lakh
+106,Volvo S60 D4 SUMMUM,2015,"76,189 kms ", Diesel , Automatic,₹ 10.00 Lakh
+107,Mercedes-Benz S-Class S 350 CDI,2015,"40,000 kms ", Diesel , Automatic,₹ 51.00 Lakh
+108,Hyundai i20 Magna 1.4 CRDi,2015,"94,385 kms ", Diesel , Manual,₹ 4.00 Lakh
+109,Honda Amaze VX i-Vtech,2015,"54,032 kms ", Petrol , Manual,₹ 4.00 Lakh
+110,Mitsubishi Pajero Sport 4X2 AT,2015,"1,57,329 kms ", Diesel , Automatic,₹ 10.00 Lakh
+111,Hyundai Grand i10 Sportz,2015,"71,868 kms ", Petrol , Manual,₹ 3.50 Lakh
+112,Toyota Innova 2.5 VX (Diesel) 8 Seater BS IV,2015,"20,948 kms ", Diesel , Manual,₹ 9.75 Lakh
+113,Audi Q5 3.0 TDI Quattro Technology,2015,"35,000 kms ", Diesel , Automatic,₹ 21.00 Lakh
+114,Mercedes-Benz GLE 250d,2016,"64,000 kms ", Diesel , Automatic,₹ 35.50 Lakh
+115,Maruti Ciaz ZDi SHVS,2016,"79,431 kms ", Diesel , Manual,₹ 5.35 Lakh
+116,Maruti Alto K10 VXI AMT,2016,"53,801 kms ", Petrol , Automatic,₹ 2.80 Lakh
+117,Tata Safari Storme VX,2016,"25,000 kms ", Diesel , Manual,₹ 5.10 Lakh
+118,Maruti Vitara Brezza ZDi,2016,"78,969 kms ", Diesel , Manual,₹ 6.50 Lakh
+119,Porsche Cayenne Diesel Platinum Edition,2016,"50,000 kms ", Diesel , Automatic,₹ 58.00 Lakh
+120,Audi A6 35 TDI,2016,"68,000 kms ", Diesel , Automatic,₹ 23.60 Lakh
+121,Hyundai i20 Asta 1.2,2016,"52,780 kms ", Petrol , Manual,₹ 5.50 Lakh
+122,Mahindra KUV 100 mFALCON G80 K8 5str AW,2016,"42,009 kms ", Petrol , Manual,₹ 3.50 Lakh
+123,Mercedes-Benz GLS 350d Grand Edition,2016,"45,000 kms ", Diesel , Automatic,₹ 58.50 Lakh
+124,Hyundai Creta 1.6 VTVT AT SX Plus,2016,"48,330 kms ", Petrol , Automatic,₹ 8.60 Lakh
+125,Toyota Innova Crysta 2.4 VX MT BSIV,2016,"57,936 kms ", Diesel , Manual,₹ 13.50 Lakh
+126,Maruti Ertiga SHVS ZDI Plus,2016,"63,621 kms ", Diesel , Manual,₹ 5.50 Lakh
+127,Mahindra TUV 300 T8,2016,"1,36,672 kms ", Diesel , Manual,₹ 4.70 Lakh
+128,Tata Tiago 1.2 Revotron XZ,2016,"55,184 kms ", Petrol , Manual,₹ 4.00 Lakh
+129,Chevrolet Beat PS,2016,"22,615 kms ", Petrol , Manual,₹ 1.50 Lakh
+130,Toyota Innova Crysta 2.4 G MT BSIV,2017,"30,000 kms ", Diesel , Manual,₹ 16.00 Lakh
+131,Maruti Vitara Brezza LDi Option,2017,"72,632 kms ", Diesel , Manual,₹ 5.60 Lakh
+132,Jeep Compass 2.0 Limited,2017,"30,000 kms ", Diesel , Manual,₹ 12.75 Lakh
+133,Maruti Ertiga SHVS VDI,2017,"1,41,672 kms ", Diesel , Manual,₹ 7.50 Lakh
+134,Mercedes-Benz E-Class Exclusive E 220 d BSIV,2017,"43,000 kms ", Diesel , Automatic,₹ 38.50 Lakh
+135,Honda Jazz 1.2 SV i VTEC,2017,"66,000 kms ", Petrol , Manual,₹ 4.85 Lakh
+136,Mahindra TUV 300 T6 Plus,2017,"68,000 kms ", Diesel , Manual,₹ 5.65 Lakh
+137,Maruti Celerio Green VXI Optional,2017,"51,000 kms ", CNG , Manual,₹ 4.20 Lakh
+138,Maruti SX4 S Cross DDiS 200 Zeta,2017,"92,000 kms ", Diesel , Manual,₹ 6.75 Lakh
+139,Maruti Swift Dzire LXI Option,2017,"67,433 kms ", Petrol , Manual,₹ 3.75 Lakh
+140,Skoda Superb LK 1.8 TSI AT,2017,"57,000 kms ", Petrol , Automatic,₹ 20.75 Lakh
+141,Maruti Vitara Brezza ZDi,2017,"61,107 kms ", Diesel , Manual,₹ 7.00 Lakh
+142,Jeep Compass 1.4 Limited Option,2017,"19,000 kms ", Petrol , Automatic,₹ 12.50 Lakh
+143,Maruti Ciaz AT ZXi,2017,"32,000 kms ", Petrol , Automatic,₹ 7.25 Lakh
+144,Honda City i VTEC CVT VX,2017,"55,000 kms ", Petrol , Automatic,₹ 7.75 Lakh
+145,Honda City i VTEC CVT VX,2017,"55,000 kms ", Petrol , Automatic,₹ 7.75 Lakh
+146,Toyota Camry 2.5 Hybrid,2017,"92,000 kms ", Petrol , Automatic,₹ 22.50 Lakh
+147,Mercedes-Benz C-Class C 200 CGI,2017,"62,000 kms ", Petrol , Automatic,₹ 28.00 Lakh
+148,Renault KWID 1.0 RXT,2017,"15,895 kms ", Petrol , Manual,₹ 3.00 Lakh
+149,Ford Ecosport 1.5 Diesel Titanium BSIV,2017,"1,00,000 kms ", Diesel , Manual,₹ 6.50 Lakh
+150,Skoda Superb Style 1.8 TSI AT,2017,"54,000 kms ", Petrol , Automatic,₹ 21.75 Lakh
+151,Hyundai Grand i10 Magna,2017,"88,673 kms ", Petrol , Manual,₹ 4.25 Lakh
+152,Maruti Vitara Brezza ZDi,2017,"61,107 kms ", Diesel , Manual,₹ 7.00 Lakh
+153,Tata Tiago 1.05 Revotorq XZ,2017,"90,255 kms ", Diesel , Manual,₹ 3.50 Lakh
+154,Mercedes-Benz GLS 350d 4MATIC,2017,"76,000 kms ", Diesel , Automatic,₹ 59.50 Lakh
+155,Toyota Etios Liva 1.4 GD,2017,"64,228 kms ", Diesel , Manual,₹ 5.00 Lakh
+156,Audi Q7 45 TDI Quattro Technology,2017,"65,000 kms ", Diesel , Automatic,₹ 46.00 Lakh
+157,Audi Q3 30 TFSI Premium FWD,2017,"22,745 kms ", Petrol , Automatic,₹ 27.00 Lakh
+158,BMW 3 Series GT Luxury Line,2017,"24,000 kms ", Diesel , Automatic,₹ 31.00 Lakh
+159,Jaguar XE 2.0L Diesel Prestige,2017,"52,000 kms ", Diesel , Automatic,₹ 24.50 Lakh
+160,Maruti Swift Dzire VXI 1.2,2017,"34,704 kms ", Petrol , Manual,₹ 5.00 Lakh
+161,Toyota Camry 2.5 Hybrid,2017,"92,000 kms ", Petrol , Automatic,₹ 22.50 Lakh
+162,Hyundai Creta 1.6 VTVT AT SX Plus,2017,"57,113 kms ", Petrol , Automatic,₹ 9.50 Lakh
+163,Mahindra XUV500 W7,2018,"26,300 kms ", Diesel , Manual,₹ 12.35 Lakh
+164,Maruti Ciaz 1.4 AT Delta,2018,"32,000 kms ", Petrol , Automatic,₹ 8.25 Lakh
+165,BMW X5 xDrive 30d Design Pure Experience 5 Seater,2018,"48,000 kms ", Diesel , Automatic,₹ 50.00 Lakh
+166,BMW X1 sDrive20d Expedition,2018,"26,000 kms ", Diesel , Automatic,₹ 26.50 Lakh
+167,Mercedes-Benz C-Class C 200 CGI Grand Edition,2018,"25,000 kms ", Petrol , Automatic,₹ 36.50 Lakh
+168,Fiat Punto EVO 1.3 Emotion,2018,"75,949 kms ", Diesel , Manual,₹ 3.10 Lakh
+169,Audi A6 35 TFSI Matrix,2018,"30,000 kms ", Petrol , Automatic,₹ 34.50 Lakh
+170,Maruti Baleno 1.2 Alpha,2018,"21,210 kms ", Petrol , Manual,₹ 5.00 Lakh
+171,Mercedes-Benz C-Class C 200 CGI Grand Edition,2018,"25,000 kms ", Petrol , Automatic,₹ 36.50 Lakh
+172,BMW 5 Series 520d Sport Line,2018,"55,000 kms ", Diesel , Automatic,₹ 38.75 Lakh
+173,Volvo S90 D4 Inscription BSIV,2018,"20,000 kms ", Diesel , Automatic,₹ 44.75 Lakh
+174,Maruti Wagon R VXI BS IV,2018,"38,119 kms ", Petrol , Manual,₹ 3.85 Lakh
+175,Mercedes-Benz GLS 350d Grand Edition,2019,"36,000 kms ", Diesel , Automatic,₹ 79.00 Lakh
+176,Kia Seltos HTX Plus D,2019,"28,000 kms ", Diesel , Manual,₹ 15.50 Lakh
+177,Hyundai Verna CRDi 1.6 AT SX Option,2019,"33,000 kms ", Diesel , Automatic,₹ 11.75 Lakh
+178,Mahindra Bolero Power Plus SLX,2019,"65,000 kms ", Diesel , Manual,₹ 7.60 Lakh
+179,Volvo XC60 D5 Inscription,2019,"34,000 kms ", Diesel , Automatic,₹ 54.50 Lakh
+180,Maruti Baleno 1.2 Delta,2019,"31,000 kms ", Petrol , Manual,₹ 6.15 Lakh
+181,Maruti Wagon R VXI 1.2 BSIV,2019,"40,000 kms ", Petrol , Manual,₹ 5.40 Lakh
+182,Jaguar F-Pace Prestige 2.0 Petrol,2019,"25,000 kms ", Petrol , Automatic,₹ 55.55 Lakh
+183,Maruti Wagon R ZXI AMT 1.2,2019,"39,196 kms ", Petrol , Automatic,₹ 4.75 Lakh
+184,Mercedes-Benz E-Class E 350d,2019,"59,900 kms ", Diesel , Automatic,₹ 51.50 Lakh
+185,Volkswagen Polo GT TSI,2019,"17,658 kms ", Petrol , Automatic,₹ 8.35 Lakh
+186,Toyota Innova Crysta 2.4 GX MT BSIV,2019,"39,039 kms ", Diesel , Manual,₹ 16.00 Lakh
+187,Mercedes-Benz GLE 43 AMG Coupe,2019,"23,000 kms ", Petrol , Automatic,₹ 80.00 Lakh
+188,Maruti Swift Dzire VXI 1.2,2019,"19,931 kms ", Petrol , Manual,₹ 6.00 Lakh
+189,Toyota Innova Crysta 2.8 GX AT BSIV,2019,"20,387 kms ", Diesel , Automatic,₹ 17.50 Lakh
+190,Maruti Wagon R VXI 1.2,2019,"91,134 kms ", Petrol , Manual,₹ 3.85 Lakh
+191,BMW 5 Series 520d Luxury Line,2019,"29,000 kms ", Diesel , Automatic,₹ 47.50 Lakh
+192,Ford Ecosport 1.5 Diesel Titanium BSIV,2019,"49,170 kms ", Diesel , Manual,₹ 8.00 Lakh
+193,Maruti Wagon R CNG LXI BSIV,2019,"49,804 kms ", CNG , Manual,₹ 4.75 Lakh
+194,Mahindra XUV300 W8 Option BSIV,2019,"21,382 kms ", Petrol , Manual,₹ 10.50 Lakh
+195,Tata Nexon 1.2 Revotron XM,2019,"44,897 kms ", Petrol , Manual,₹ 6.00 Lakh
+196,Jeep Compass 2.0 Sport Plus,2019,"47,000 kms ", Diesel , Manual,₹ 14.50 Lakh
+197,Maruti Swift VXI,2019,"29,520 kms ", Petrol , Manual,₹ 5.50 Lakh
+198,Toyota Innova Crysta 2.4 G MT,2019,"48,002 kms ", Diesel , Manual,₹ 18.40 Lakh
+199,BMW X1 sDrive 20d xLine,2019,"25,000 kms ", Diesel , Automatic,₹ 29.00 Lakh
+200,Volkswagen Tiguan 2.0 TDI Highline,2019,"25,000 kms ", Diesel , Automatic,₹ 26.50 Lakh
+201,Hyundai Creta 1.6 VTVT AT SX Plus,2019,"12,000 kms ", Petrol , Automatic,₹ 13.49 Lakh
+202,Mercedes-Benz GLS 400d 4MATIC,2020,"18,000 kms ", Diesel , Automatic,₹ 1.20 Cr
+203,Maruti Ignis 1.2 Delta BSIV,2020,"40,000 kms ", Petrol , Manual,₹ 4.75 Lakh
+204,Jeep Compass 2.0 Longitude Option,2020,"22,800 kms ", Diesel , Manual,₹ 18.45 Lakh
+205,Volvo XC60 D5 Inscription,2020,"15,000 kms ", Diesel , Automatic,₹ 61.00 Lakh
+206,Mercedes-Benz GLC 220d 4MATIC,2020,"24,000 kms ", Diesel , Automatic,₹ 55.50 Lakh
+207,Toyota Glanza G,2020,"15,000 kms ", Petrol , Manual,₹ 7.50 Lakh
+208,BMW 6 Series GT 620d Luxury Line 2019-2021,2020,"50,000 kms ", Diesel , Automatic,₹ 60.50 Lakh
+209,Mahindra Scorpio S9,2020,"63,000 kms ", Diesel , Manual,₹ 14.99 Lakh
+210,Honda City ZX MT,2020,"17,873 kms ", Petrol , Manual,₹ 11.50 Lakh
+211,MG Hector Sharp DCT,2020,"14,000 kms ", Petrol , Automatic,₹ 16.90 Lakh
+212,Kia Seltos GTX Plus DCT,2020,"25,000 kms ", Petrol , Automatic,₹ 17.40 Lakh
+213,Tata Tiago XE,2020,"34,886 kms ", Petrol , Manual,₹ 4.50 Lakh
+214,Maruti Wagon R CNG LXI Opt,2020,"26,912 kms ", CNG , Manual,₹ 5.00 Lakh
+215,Kia Seltos HTX IVT,2020,"26,000 kms ", Petrol , Automatic,₹ 15.00 Lakh
+216,Hyundai Verna SX Opt AT Diesel,2020,"1,01,683 kms ", Diesel , Automatic,₹ 12.50 Lakh
+217,BMW X5 xDrive 30d xLine,2020,"25,000 kms ", Diesel , Automatic,₹ 82.00 Lakh
+218,Mercedes-Benz GLS 400d 4MATIC,2020,"18,000 kms ", Diesel , Automatic,₹ 1.20 Cr
+219,Mini 3 DOOR Cooper S,2020,"13,000 kms ", Petrol , Automatic,₹ 39.00 Lakh
+220,Maruti Ciaz Sigma BSIV,2020,"57,182 kms ", Petrol , Manual,₹ 7.50 Lakh
+221,BMW X1 sDrive 20d xLine,2020,"27,000 kms ", Diesel , Automatic,₹ 34.00 Lakh
+222,Hyundai i20 Sportz,2020,"40,000 kms ", Petrol , Manual,₹ 7.00 Lakh
+223,Kia Seltos HTX G,2020,"16,383 kms ", Petrol , Manual,₹ 14.20 Lakh
+224,Toyota Innova Crysta 2.4 GX 7 STR AT,2021,"11,900 kms ", Diesel , Automatic,₹ 23.90 Lakh
+225,Toyota Innova Crysta 2.4 ZX 7 STR AT,2021,"16,000 kms ", Diesel , Automatic,₹ 29.00 Lakh
+226,Mercedes-Benz GLE 300d,2021,"42,000 kms ", Diesel , Automatic,₹ 74.50 Lakh
+227,Jaguar F-Pace 2.0 R-Dynamic S Diesel,2021,"10,000 kms ", Diesel , Automatic,₹ 72.50 Lakh
+228,Audi A6 45 TFSI Technology with Matrix,2021,"20,000 kms ", Petrol , Automatic,₹ 56.00 Lakh
+229,Hyundai Creta SX Turbo,2021,"33,000 kms ", Petrol , Automatic,₹ 18.95 Lakh
+230,Mercedes-Benz GLC Coupe 300d 4MATIC,2021,"25,000 kms ", Diesel , Automatic,₹ 70.00 Lakh
+231,Mercedes-Benz E-Class Expression E 200,2021,"5,000 kms ", Petrol , Automatic,₹ 70.00 Lakh
+232,Hyundai Venue SX Opt Diesel,2021,"14,120 kms ", Diesel , Manual,₹ 11.95 Lakh
+233,Tata New Safari XZA Plus Kaziranga Edition AT,2021,"31,000 kms ", Diesel , Automatic,₹ 20.95 Lakh
+234,BMW 3 Series 320d Luxury Line,2021,"25,000 kms ", Diesel , Automatic,₹ 45.50 Lakh
+235,Maruti Vitara Brezza VXI,2021,"22,000 kms ", Petrol , Manual,₹ 9.25 Lakh
+236,Hyundai Verna SX,2021,"13,000 kms ", Petrol , Manual,₹ 11.50 Lakh
+237,Mercedes-Benz A-Class Limousine A 200,2021,"11,000 kms ", Petrol , Automatic,₹ 42.00 Lakh
+238,BMW X3 xDrive 20d Luxury Line,2021,"19,000 kms ", Diesel , Automatic,₹ 59.75 Lakh
+239,Mercedes-Benz GLE 300d,2021,"42,000 kms ", Diesel , Automatic,₹ 74.50 Lakh
+240,Mercedes-Benz GLS 400d 4MATIC,2021,"3,000 kms ", Diesel , Automatic,₹ 1.30 Cr
+241,Renault KWID 1.0 RXL,2021,"2,422 kms ", Petrol , Manual,₹ 4.10 Lakh
+242,Mercedes-Benz C-Class Progressive C 200,2021,"12,000 kms ", Petrol , Automatic,₹ 47.50 Lakh
+243,Mahindra XUV300 W6,2021,"5,288 kms ", Petrol , Manual,₹ 9.75 Lakh
+244,Renault Triber RXE,2021,"60,755 kms ", Petrol , Manual,₹ 5.50 Lakh
+245,Mercedes-Benz C-Class Progressive C 200,2021,"12,000 kms ", Petrol , Automatic,₹ 47.50 Lakh
+246,MG Gloster Savvy 7-Str,2021,"11,000 kms ", Diesel , Automatic,₹ 39.65 Lakh
+247,Jeep Compass Model S 4X4 Diesel AT,2021,"14,000 kms ", Diesel , Automatic,₹ 29.50 Lakh
+248,BMW X1 sDrive20i xLine,2021,"17,000 kms ", Petrol , Automatic,₹ 39.75 Lakh
+249,Honda City i-VTEC V,2021,"16,000 kms ", Petrol , Manual,₹ 11.90 Lakh
+250,Mercedes-Benz E-Class Expression E 220d,2022,"2,000 kms ", Diesel , Automatic,₹ 76.25 Lakh
+251,Mahindra XUV700 AX5 7 Str,2022,"3,690 kms ", Petrol , Manual,₹ 18.00 Lakh
+252,Mercedes-Benz E-Class Exclusive E 220d,2022,"17,000 kms ", Diesel , Automatic,₹ 74.00 Lakh
+253,BMW X1 sDrive20i xLine,2022,"11,000 kms ", Petrol , Automatic,₹ 41.75 Lakh
+254,BMW X7 xDrive 40i,2022,"9,000 kms ", Petrol , Automatic,₹ 1.28 Cr
+255,Volvo S90 B5 Ultimate,2022,"4,000 kms ", Petrol , Automatic,₹ 65.00 Lakh
+256,Maruti Baleno Zeta,2022,"7,100 kms ", Petrol , Manual,₹ 7.91 Lakh
+257,Tata Nexon XZA Plus Dark Edition Diesel,2022,"5,021 kms ", Diesel , Automatic,₹ 12.00 Lakh
+258,Mercedes-Benz C-Class C 220d,2022,"3,000 kms ", Diesel , Automatic,₹ 62.00 Lakh
+259,BMW X4 xDrive30i M Sport Silver Shadow Edition,2022,"7,600 kms ", Petrol , Automatic,₹ 74.50 Lakh
