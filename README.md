@@ -12,7 +12,7 @@ Step 4  Extract data into variable
 
 Step 5  Split data based on the pattern of the data extracted
 
-Step 6  Filter the data based on the requirements
+Step 6  Created loop for segregating data into different variables
 
 Step 5  Created a data frame and store it into CSV file
 
