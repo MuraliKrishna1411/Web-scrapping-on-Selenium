@@ -4,7 +4,7 @@ Web scrapping data using selenium and python
 
 Step 1  Used selenium and created driver to open website
 
-Step 2  Created a loop for scrolling website
+Step 2  Created a loop for scrolling website, we can provide how many scrolls we want
 
 Step 3  Extract data using .text or we can use .textcontent
 
@@ -18,4 +18,4 @@ Step 5  Created a data frame and stored into CSV file
 
 Understand the code and you can extract any data from any website, using this data we can extract from amazon, filpkart  etc
 
-Thank you for visting repository
+Thank you for visiting  this repository
