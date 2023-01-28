@@ -1,6 +1,5 @@
 from selenium import webdriver
 import time
-from bs4 import BeautifulSoup
 import requests
 from selenium.webdriver.common.by import By
 import pandas as pd
